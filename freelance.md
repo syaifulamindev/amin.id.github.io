@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Freelance Services
+permalink: /freelance/
 ---
 
 # Freelance Services
