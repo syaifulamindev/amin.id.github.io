@@ -25,7 +25,7 @@ Interested in collaborating on a project or have a freelance opportunity? Let's 
 
 ## Community and Support
 
-- **Discord:** [Your Discord Server Invite Link]
+- **Discord:** [Discord](https://discord.com/invite/Tkr8TgqAqf)
 - **Ko-fi:** [Support me on Ko-fi](https://ko-fi.com/syaifulamin)
 
 ---
