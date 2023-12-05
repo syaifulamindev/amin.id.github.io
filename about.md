@@ -10,8 +10,7 @@ Hello! I'm Syaiful Amin, an iOS developer with a passion for technology, learnin
 
 ## Background
 
-I have been working in the field of iOS development since 2014, with a focus on creating user-friendly and innovative mobile applications. After completing my education, I embarked on my professional journey in iOS development by joining company Alamaya. It was at this pivotal point that I transitioned from a student to a full-fledged developer, tackling real-world challenges and contributing to the success of projects. Since then, my focus has remained steadfast on iOS development. I've had the opportunity to work on native mobile applications for both Android and iOS, gaining valuable experience and solidifying my passion for creating innovative and user-friendly mobile apps.
-
+I have been working in the field of iOS development since 2014, with a focus on creating user-friendly and innovative mobile applications. After completing my education, I embarked on my professional journey in iOS development. It was at this pivotal point that I transitioned from a student to a full-fledged developer, tackling real-world challenges and contributing to the success of projects. Since then, my focus has remained steadfast on iOS development. I’ve had the opportunity to work on native mobile applications for both Android and iOS, gaining valuable experience and solidifying my passion for creating innovative and user-friendly mobile apps.
 
 ## Freelance Journey
 
