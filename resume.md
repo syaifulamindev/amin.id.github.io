@@ -12,13 +12,13 @@ permalink: /resume/
 
 ## Professional Experience
 
-### Intern - Software Development | Software Co. (2012 - 2013)
+### Intern - Software Development | PT. Indonesia Online (Alamaya) (2012 - 2013)
 - Completed a successful 1-year internship in software development.
 - Became the first cross-platform mobile developer at the company, specializing in Android and iOS app development.
 - Developed mobile applications that contributed to 3 clients projects.
 - Gained expertise in software engineering, focusing on cross-platform mobile development.
 
-### iOS Engineer and Android Engineer | PT. Indonesia Online (May 2014 - February 2015)
+### iOS Engineer and Android Engineer | PT. Indonesia Online (Alamaya) (May 2014 - February 2015)
 
 - Collaborated in the development of mobile apps tailored to meet client specifications, focusing on iOS and Android platforms.
 - Played an instrumental role in delivering client-driven projects, ensuring a high standard of quality and customer satisfaction.
