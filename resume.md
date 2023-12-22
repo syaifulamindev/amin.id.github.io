@@ -7,16 +7,20 @@ permalink: /resume/
 # Syaiful Amin
 
 ## iOS Developer | Freelancer | Community Builder | Trainer | Mentor
+---
+## Professional Summary
+
+Versatile Mobile Software Engineer with over a decade of combined experience in iOS application development. Began the journey as a dynamic intern in 2012, focusing on cross-platform Android and iOS applications using Adobe Air technology and ActionScript 3 language. Transitioned to specialize in native iOS development, accumulating significant expertise and serving as a vital member of core development teams. Proven track record of delivering high-quality iOS applications and fostering team growth through training and knowledge sharing. Eager to bring over 10 years of diverse experience to tackle new challenges in the mobile development landscape.
 
 ---
 
 ## Professional Experience
 
 ### Intern - Software Development | PT. Indonesia Online (Alamaya) (2012 - 2013)
-- Completed a successful 1-year internship in software development.
-- Became the first cross-platform mobile developer at the company, specializing in Android and iOS app development.
-- Developed mobile applications that contributed to 3 clients projects.
-- Gained expertise in software engineering, focusing on cross-platform mobile development.
+
+- Solely responsible for mobile development, specializing in cross-platform Android and iOS applications using Adobe Air technology and ActionScript 3 language.
+- Successfully completed several client projects, including the development of online radio applications.
+- Demonstrated adaptability and initiative by working independently as the only mobile developer during the internship.
 
 ### iOS Engineer and Android Engineer | PT. Indonesia Online (Alamaya) (May 2014 - February 2015)
 
