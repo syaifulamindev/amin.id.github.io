@@ -17,17 +17,11 @@ Have a question, suggestion, or just want to say hello? I'd love to hear from yo
 
 Stay updated on the latest news, projects, and discussions:
 
-- **GitHub:** [WeEn App](https://github.com/syaifulamindev/WeEn)
 - **Blog:** [amin.id](https://amin.id/blog)
 
 ## Let's Collaborate
 
 Interested in collaborating on a project or have a freelance opportunity? Let's discuss how we can work together to achieve your goals.
-
-## Community and Support
-
-- **Discord:** [Discord](https://discord.com/invite/Tkr8TgqAqf)
-- **Ko-fi:** [Support me on Ko-fi](https://ko-fi.com/syaifulamin)
 
 ---
 

@@ -16,35 +16,17 @@ Versatile Mobile Software Engineer with over a decade of combined experience in 
 
 ## Professional Experience
 
-### Intern - Software Development | PT. Indonesia Online (Alamaya) (2012 - 2013)
+### Senior Software Engineer (iOS) at Ruangguru, May 2022 - Nov 2022
 
-- Solely responsible for mobile development, specializing in cross-platform Android and iOS applications using Adobe Air technology and ActionScript 3 language.
-- Successfully completed several client projects, including the development of online radio applications.
-- Demonstrated adaptability and initiative by working independently as the only mobile developer during the internship.
+- Spearheaded the development of developer tools, enhancing productivity and efficiency for the team.
+- Collaborated with cross-functional teams to create tools that streamlined product development and improved overall project delivery.
+- Provided valuable mentorship and guidance to junior developers, fostering a culture of knowledge sharing.
 
-### iOS Engineer and Android Engineer | PT. Indonesia Online (Alamaya) (May 2014 - February 2015)
+### iOS Engineer at Quadrant, September 2020 - May 2022
 
-- Collaborated in the development of mobile apps tailored to meet client specifications, focusing on iOS and Android platforms.
-- Played an instrumental role in delivering client-driven projects, ensuring a high standard of quality and customer satisfaction.
-- Spearheaded the implementation of effective project management tools and methodologies, resulting in improved project tracking and a reduction in project delays.
-
-### iOS Trainer, iOS Engineer at IMA Studio, February 2015 - July 2016
-
-- Authored comprehensive training materials and modules for iOS development, enabling the growth and development of other iOS developers within the organization.
-- Conducted training sessions and workshops, equipping team members with essential skills and knowledge.
-- Contributed to the development of the "Info KRL App," a significant project that enhanced the public's access to vital train-related information, showcasing my development expertise.
-
-### Freelance iOS Engineer July 2016 - February 2017
-
-- Independently assisted various companies in developing their iOS applications, including notable projects like "Nataproperty Smart Selling Tools App" and "Majalah Media Keuangan (KEMENKEU RI) App (iOS Version v1.0.0)."
-- Demonstrated strong problem-solving skills and a deep understanding of the iOS development ecosystem.
-- Actively participated in code reviews and provided mentorship to junior team members, fostering a culture of continuous improvement and knowledge sharing.
-
-### iOS Engineer at Flipbox, February 2017 - May 2018
-
-- Worked as part of a dynamic software consultant team, delivering client-requested projects on time and within budget.
-- Collaborated closely with clients to understand their requirements and deliver customized iOS solutions.
-- Conducted in-depth research on iOS architecture, enhancing the team's understanding of best practices and leading to more efficient and maintainable app development.
+- Successfully led the migration of projects from Objective-C to Swift, reducing maintenance overhead and improving codebase readability.
+- Developed and documented frameworks for distribution to partner companies under formal agreements with Quadrant, contributing to a growing ecosystem.
+- Played a key role in architectural decisions and code reviews, ensuring high code quality and best practices adherence.
 
 ###  iOS Engineer at Style Theory, July 2018 - July 2020
 
@@ -53,17 +35,35 @@ Versatile Mobile Software Engineer with over a decade of combined experience in 
 - Supported agile development methodologies, ensuring rapid and efficient iteration of
 the product.
 
-### iOS Engineer at Quadrant, September 2020 - May 2022
+### iOS Engineer at Flipbox, February 2017 - May 2018
 
-- Successfully led the migration of projects from Objective-C to Swift, reducing maintenance overhead and improving codebase readability.
-- Developed and documented frameworks for distribution to partner companies under formal agreements with Quadrant, contributing to a growing ecosystem.
-- Played a key role in architectural decisions and code reviews, ensuring high code quality and best practices adherence.
+- Worked as part of a dynamic software consultant team, delivering client-requested projects on time and within budget.
+- Collaborated closely with clients to understand their requirements and deliver customized iOS solutions.
+- Conducted in-depth research on iOS architecture, enhancing the team's understanding of best practices and leading to more efficient and maintainable app development.
 
-### Senior Software Engineer (iOS) at Ruangguru, May 2022 - Nov 2022
+### Freelance iOS Engineer July 2016 - February 2017
 
-- Spearheaded the development of developer tools, enhancing productivity and efficiency for the team.
-- Collaborated with cross-functional teams to create tools that streamlined product development and improved overall project delivery.
-- Provided valuable mentorship and guidance to junior developers, fostering a culture of knowledge sharing.
+- Independently assisted various companies in developing their iOS applications, including notable projects like "Nataproperty Smart Selling Tools App" and "Majalah Media Keuangan (KEMENKEU RI) App (iOS Version v1.0.0)."
+- Demonstrated strong problem-solving skills and a deep understanding of the iOS development ecosystem.
+- Actively participated in code reviews and provided mentorship to junior team members, fostering a culture of continuous improvement and knowledge sharing.
+
+### iOS Trainer, iOS Engineer at IMA Studio, February 2015 - July 2016
+
+- Authored comprehensive training materials and modules for iOS development, enabling the growth and development of other iOS developers within the organization.
+- Conducted training sessions and workshops, equipping team members with essential skills and knowledge.
+- Contributed to the development of the "Info KRL App," a significant project that enhanced the public's access to vital train-related information, showcasing my development expertise.
+
+### iOS Engineer and Android Engineer | PT. Indonesia Online (Alamaya) (May 2014 - February 2015)
+
+- Collaborated in the development of mobile apps tailored to meet client specifications, focusing on iOS and Android platforms.
+- Played an instrumental role in delivering client-driven projects, ensuring a high standard of quality and customer satisfaction.
+- Spearheaded the implementation of effective project management tools and methodologies, resulting in improved project tracking and a reduction in project delays.
+
+### Intern - Software Development | PT. Indonesia Online (Alamaya) (2012 - 2013)
+
+- Solely responsible for mobile development, specializing in cross-platform Android and iOS applications using Adobe Air technology and ActionScript 3 language.
+- Successfully completed several client projects, including the development of online radio applications.
+- Demonstrated adaptability and initiative by working independently as the only mobile developer during the internship.
 
 ---
 
@@ -107,7 +107,7 @@ the product.
 
 - Description: WeEn is an open-source initiative that goes beyond traditional software development materials. It's not just about reading articles or books; it's about learning by doing. WeEn is a note-taking application designed to provide hands-on experience and practical insights into the world of software development.
 - Technologies Used: Swift, UIKit
-- GitHub Repository: [GitHub](<https://github.com/syaifulamindev/WeEn.git>)
+- GitHub Repository: [GitHub](<https://github.com/syaifulamindev>)
 
 ---
 

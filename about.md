@@ -30,7 +30,5 @@ I'm always open to connecting with fellow developers, freelancers, and tech enth
 
 - **LinkedIn:** [Syaiful Amin](https://www.linkedin.com/in/sayfullamin)
 - **Twitter:** [@syaifulamindev](https://twitter.com/syaifulamindev)
-- **Discord:** [Join our Discord community](https://discord.com/invite/Tkr8TgqAqf)
-- **Ko-fi:** [Support me on Ko-fi](https://ko-fi.com/syaifulamin)
 
 Thank you for visiting, and I look forward to sharing more with you on this journey!

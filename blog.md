@@ -27,5 +27,5 @@ Stay tuned! We'll be sharing exciting content soon. Meanwhile, join our [Discord
 
 ---
 
-Thank you for reading! Feel free to share your thoughts and continue the discussion on our [Discord community](https://discord.com/invite/Tkr8TgqAqf).
+Thank you for reading!
 
